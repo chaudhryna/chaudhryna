@@ -24,8 +24,7 @@
       <h3 align="center">Travel Page</h3>
         <br />
         <a href="https://chaudhryna.github.io/travel-page/" target="_blank">
-            <img width="100%" alt="travel-page" src="https://user-images.githubusercontent.com/19597150/170185421-658f6f11-cf24-45c0-869e-ccc073a9760d.png">
-
+            <img width="100%" alt="travel-page" src="/images/travel-page.png">
         </a>
         <br />
         <p align="center">
@@ -38,17 +37,13 @@
         </p>
         <p><em>HTML and CSS</em> A responsive website listing of all the posts that I've been stationed at while working at the Department of State using just HTML and CSS!</p>
     </td>
-    
-    
     <td width="50%" valign="top">
       <h3 align="center">DnD Spell Selector</h3>
         <br />
       <a href="https://dnd-spell-selector.netlify.app/" target="_blank">
-          <img width="100%" alt="DnD-Spell-Selector" src="https://user-images.githubusercontent.com/19597150/170185123-3e80e887-8058-433a-8249-b6082de08a56.png">
-
+          <img width="100%" alt="DnD-Spell-Selector" src="images/DnD-Spell-Selector.png">
         </a>
         <br />
-        
         <p align="center">
           <a href="https://github.com/chaudhryna/DnD-API-Spell-Selector" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
@@ -60,45 +55,42 @@
       <p><em>Javascript, HTML and CSS</em> A simple website for spell selections using the The 5th Edition Dungeons and Dragons API https://www.dnd5eapi.co/.</p>
     </td>
   </tr>
-  
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">The Perfect Cocktail App</h3>
       <br />
         <a target="_blank" href="https://pick-a-cocktail.netlify.app/">
-          <img width="100%" alt="perfect-cocktail" src="https://user-images.githubusercontent.com/19597150/170053923-354250a0-1b38-46cb-8da6-15f3e214571a.png">
+          <img width="100%" alt="perfect-cocktail" src="/images/perfect-cocktail.png">
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/chaudhryna/cocktail-api" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://pick-a-cocktail.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><em>Javascript, HTML and CSS</em> A simple website for a #100Devs project that uses the https://www.thecocktaildb.com/ API to search for cocktails. You can type in your cocktail or select one at random.</p>
-    </td>
-      
-    <td width="50%" valign="top">
-      <h3 align="center">Things I Learned</h3>
-        <br />
-        <a target="_blank" href="https://github.com/chaudhryna/Django201">
-          <img width="100%" alt="things-I-learned" src="https://user-images.githubusercontent.com/19597150/170175972-bdc38f4b-1502-4e09-b35a-e072090f5913.png">
-        </a>
-        <br />
-        <p align="center">
-            <a href="https://github.com/chaudhryna/Django201" target="_blank">
-                <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-            </a>
+          <a href="https://github.com/chaudhryna/cocktail-api" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>
+          <a href="https://pick-a-cocktail.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
         </p>
+        <p><em>Javascript, HTML and CSS</em> A simple website for a #100Devs project that uses the https://www.thecocktaildb.com/ API to search for cocktails. You can type in your cocktail or select one at random.</p>
+      </td> 
+      <td width="50%" valign="top">
+        <h3 align="center">Things I Learned</h3>
+          <br />
+          <a target="_blank" href="https://github.com/chaudhryna/Django201">
+            <img width="100%" alt="things-I-learned" src="/images/things-I-learned.png">
+          </a>
+          <br />
+          <p align="center">
+              <a href="https://github.com/chaudhryna/Django201" target="_blank">
+                  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+              </a>
+          </p>
         <p><em>The app uses Django, Python, jQuery, Pillow, sorl-thumbnails and Tailwind CSS.</em> A social media app with user authentication where users can make posts, follow other users and update their own profile.</p>
     </td>
   </tr>
 </table>
 
 <h1 align="center">Technologies</h1>
-
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
