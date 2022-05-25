@@ -1,9 +1,9 @@
 ![GitHub-banner](https://user-images.githubusercontent.com/19597150/170040589-92e5d106-719b-4455-b7b2-4bf69279f52e.jpeg)
 
 <p align="center">
-<!--   <a href="https://nancychaudhry.com" target="_blank">
+<a href="https://nancychaudhry.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a> -->
+  </a>
   <a href="https://www.linkedin.com/in/nancy-chaudhry14/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
@@ -17,13 +17,13 @@
 
 
 <h1 align="center">Projects</h1>
+
 <table bordercolor="#66b2b2">
-  
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Travel Page</h3>
         <br />
-        <a target="_blank" href="https://chaudhryna.github.io/travel-page/">
+        <a href="https://chaudhryna.github.io/travel-page/" target="_blank">
             <img src="images/gif1.gif" width="100%" alt="Travel Page"/>
         </a>
         <br />
@@ -40,15 +40,15 @@
     
     
     <td width="50%" valign="top">
-      <h3 align="center">Dungeons and Dragons Spell Selector</h3>
+      <h3 align="center">DnD Spell Selector</h3>
         <br />
-      <a target="_blank" href="https://dnd-spell-selector.netlify.app/">
+      <a href="https://dnd-spell-selector.netlify.app/" target="_blank">
           <img width="1437" alt="DnD-Spell-Selector" src="https://user-images.githubusercontent.com/19597150/170049307-a5bac294-fe79-4a76-8a86-0071c55b3088.png">
         </a>
         <br />
         <p align="center">
           
-      <a href="[https://github.com/chaudhryna/DnD-API-Spell-Selector]" target="_blank">
+      <a href="https://github.com/chaudhryna/DnD-API-Spell-Selector" target="_blank">
         <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
       </a>
       <a href="https://dnd-spell-selector.netlify.app/" target="_blank">
@@ -57,8 +57,6 @@
       </p>
       <p><em>Javascript, HTML and CSS</em> - A simple website for spell selections using the The 5th Edition Dungeons and Dragons API https://www.dnd5eapi.co/.</p>
     </td>
-    
-    
   </tr>
   
   <tr>
@@ -80,25 +78,22 @@
         <p><strong>Javascript, HTML and CSS</strong> - A simple website for a #100Devs project that uses the https://www.thecocktaildb.com/ API to search for cocktails. You can type in your cocktail or select one at random..</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+      <h3 align="center">Things I Learned</h3>
         <br />
         <a target="_blank" href="https://github.com/chaudhryna/Django201">
           <img width="591" alt="things-I-learned" src="https://user-images.githubusercontent.com/19597150/170175972-bdc38f4b-1502-4e09-b35a-e072090f5913.png">
-
         </a>
         <br />
+        
         <p align="center">
-          
-  <a href="https://github.com/chaudhryna/Django201" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-      </p>
+        <a href="https://github.com/chaudhryna/Django201" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        </p>
         <p><em>The app uses Django, Python, jQuery, Pillow, sorl-thumbnails and Tailwind CSS.</em> -A social media app with user authentication where users can make posts, follow other users and update their own profile.</p>
     </td>
   </tr>
 </table>
-
-
 
 <h1 align="center">Technologies</h1>
 
