@@ -35,7 +35,7 @@
                 <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
           </a>
         </p>
-        <p><em>HTML and CSS</em> A responsive website listing of all the posts that I've been stationed at while working at the Department of State using just HTML and CSS!</p>
+        <p><strong>HTML and CSS</strong><br /> A responsive website listing of all the posts that I've been stationed at while working at the Department of State using just HTML and CSS!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">DnD Spell Selector</h3>
@@ -52,7 +52,7 @@
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
           </a>
       </p>
-      <p><em>Javascript, HTML and CSS</em> A simple website for spell selections using the The 5th Edition Dungeons and Dragons API https://www.dnd5eapi.co/.</p>
+      <p><strong>Javascript, HTML and CSS</strong> <br />A simple website for spell selections using the The 5th Edition Dungeons and Dragons API https://www.dnd5eapi.co/.</p>
     </td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
           </a>
         </p>
-        <p><em>Javascript, HTML and CSS</em> A simple website for a #100Devs project that uses the https://www.thecocktaildb.com/ API to search for cocktails. You can type in your cocktail or select one at random.</p>
+        <p><strong>Javascript, HTML and CSS</strong><br /> A simple website for a #100Devs project that uses the https://www.thecocktaildb.com/ API to search for cocktails. You can type in your cocktail or select one at random.</p>
       </td> 
       <td width="50%" valign="top">
         <h3 align="center">Things I Learned</h3>
@@ -85,7 +85,7 @@
                   <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
               </a>
           </p>
-        <p><em>The app uses Django, Python, jQuery, Pillow, sorl-thumbnails and Tailwind CSS.</em> A social media app with user authentication where users can make posts, follow other users and update their own profile.</p>
+        <p><strong>Django, Python, jQuery, Pillow, sorl-thumbnails and Tailwind CSS.</strong><br /> A social media app with user authentication where users can make posts, follow other users and update their own profile.</p>
     </td>
   </tr>
 </table>
