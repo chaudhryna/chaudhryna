@@ -90,6 +90,8 @@
   </tr>
 </table>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaudhryna&layout=compact)](https://github.com/chaudhryna/github-readme-stats)
+
 <h1 align="center">Technologies</h1>
 
 <p align="center">
