@@ -21,21 +21,21 @@
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Travel Page</h3>
+      <h3 align="center">Rock Paper Scissors</h3>
         <br />
-        <a href="https://chaudhryna.github.io/travel-page/" target="_blank">
-            <img width="100%" alt="travel-page" src="/images/travel-page.png">
+        <a href="https://github.com/chaudhryna/odin-rock-paper-scissors/" target="_blank">
+            <img width="100%" alt="rock-paper-scissors" src="/images/rock-paper-scissors.png">
         </a>
         <br />
         <p align="center">
            <a href="https://github.com/chaudhryna/travel-page" target="_blank">
                <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
            </a>  
-           <a href="https://chaudhryna.github.io/travel-page/" target="_blank">
+           <a href="https://chaudhryna.github.io/odin-rock-paper-scissors/" target="_blank">
                 <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
           </a>
         </p>
-        <p><strong>HTML and CSS</strong><br /> A responsive website listing of all the posts that I've been stationed at while working at the Department of State using just HTML and CSS!</p>
+        <p>A simple rock, paper, scissors game built with HTML, CSS, and Javascript for the Odin Project using images from https://vecteezy.com.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">DnD Spell Selector</h3>
@@ -88,6 +88,25 @@
         <p><strong>Django, Python, jQuery, Pillow, sorl-thumbnails and Tailwind CSS.</strong><br /> A social media app with user authentication where users can make posts, follow other users and update their own profile.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Travel Page</h3>
+        <br />
+        <a href="https://chaudhryna.github.io/travel-page/" target="_blank">
+            <img width="100%" alt="travel-page" src="/images/travel-page.png">
+        </a>
+        <br />
+        <p align="center">
+           <a href="https://github.com/chaudhryna/travel-page" target="_blank">
+               <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+           </a>  
+           <a href="https://chaudhryna.github.io/travel-page/" target="_blank">
+                <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+        </p>
+        <p><strong>HTML and CSS</strong><br /> A responsive website listing of all the posts that I've been stationed at while working at the Department of State using just HTML and CSS!</p>
+    </td>
+    </tr>
 </table>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaudhryna&layout=compact)](https://github.com/chaudhryna/github-readme-stats)
