@@ -41,7 +41,7 @@
       <h3 align="center">DnD Spell Selector</h3>
         <br />
       <a href="https://dnd-spell-selector.netlify.app/" target="_blank">
-          <img width="100%" alt="DnD-Spell-Selector" src="images/DnD-Spell-Selector.png">
+          <img width="100%" alt="DnD-Spell-Selector" src="/images/DnD-Spell-Selector.png">
         </a>
         <br />
         <p align="center">
