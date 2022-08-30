@@ -38,7 +38,7 @@
         <p>A simple rock, paper, scissors game built with HTML, CSS, and Javascript for the Odin Project using images from https://vecteezy.com.</p>
     </td>
     <td width="50%" valign="top">
-    <h3 align="center">Rock Paper Scissors</h3>
+    <h3 align="center">Etch A Sketch</h3>
         <br />
         <a href="https://github.com/chaudhryna/etch-a-sketch" target="_blank">
             <img width="100%" alt="etch-a-sketch" src="/images/etch-a-sketch.png">
