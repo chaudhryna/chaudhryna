@@ -41,7 +41,7 @@
     <h3 align="center">Rock Paper Scissors</h3>
         <br />
         <a href="https://github.com/chaudhryna/etch-a-sketch" target="_blank">
-            <img width="100%" alt="etch-a-sketch" src="/images/rock-paper-scissors.png">
+            <img width="100%" alt="etch-a-sketch" src="/images/etch-a-sketch.png">
         </a>
         <br />
         <p align="center">
