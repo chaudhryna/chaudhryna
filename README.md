@@ -38,21 +38,21 @@
         <p>A simple rock, paper, scissors game built with HTML, CSS, and Javascript for the Odin Project using images from https://vecteezy.com.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">DnD Spell Selector</h3>
+    <h3 align="center">Rock Paper Scissors</h3>
         <br />
-      <a href="https://dnd-spell-selector.netlify.app/" target="_blank">
-          <img width="100%" alt="DnD-Spell-Selector" src="/images/DnD-Spell-Selector.png">
+        <a href="https://github.com/chaudhryna/odin-rock-paper-scissors/" target="_blank">
+            <img width="100%" alt="rock-paper-scissors" src="/images/rock-paper-scissors.png">
         </a>
         <br />
         <p align="center">
-          <a href="https://github.com/chaudhryna/DnD-API-Spell-Selector" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+           <a href="https://github.com/chaudhryna/travel-page" target="_blank">
+               <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+           </a>  
+           <a href="https://chaudhryna.github.io/odin-rock-paper-scissors/" target="_blank">
+                <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
           </a>
-          <a href="https://dnd-spell-selector.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-          </a>
-      </p>
-      <p><strong>Javascript, HTML and CSS</strong> <br />A simple website for spell selections using the The 5th Edition Dungeons and Dragons API https://www.dnd5eapi.co/.</p>
+        </p>
+        <p>A simple rock, paper, scissors game built with HTML, CSS, and Javascript for the Odin Project using images from https://vecteezy.com.</p>
     </td>
   </tr>
   <tr>
@@ -74,18 +74,21 @@
         <p><strong>Javascript, HTML and CSS</strong><br /> A simple website for a #100Devs project that uses the https://www.thecocktaildb.com/ API to search for cocktails. You can type in your cocktail or select one at random.</p>
       </td> 
       <td width="50%" valign="top">
-        <h3 align="center">Things I Learned</h3>
-          <br />
-          <a target="_blank" href="https://github.com/chaudhryna/Django201">
-            <img width="100%" alt="things-I-learned" src="/images/things-I-learned.png">
+      <h3 align="center">DnD Spell Selector</h3>
+        <br />
+      <a href="https://dnd-spell-selector.netlify.app/" target="_blank">
+          <img width="100%" alt="DnD-Spell-Selector" src="/images/DnD-Spell-Selector.png">
+        </a>
+        <br />
+        <p align="center">
+          <a href="https://github.com/chaudhryna/DnD-API-Spell-Selector" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
           </a>
-          <br />
-          <p align="center">
-              <a href="https://github.com/chaudhryna/Django201" target="_blank">
-                  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-              </a>
-          </p>
-        <p><strong>Django, Python, jQuery, Pillow, sorl-thumbnails and Tailwind CSS.</strong><br /> A social media app with user authentication where users can make posts, follow other users and update their own profile.</p>
+          <a href="https://dnd-spell-selector.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+      </p>
+      <p><strong>Javascript, HTML and CSS</strong> <br />A simple website for spell selections using the The 5th Edition Dungeons and Dragons API https://www.dnd5eapi.co/.</p>
     </td>
   </tr>
   <tr>
@@ -105,6 +108,20 @@
           </a>
         </p>
         <p><strong>HTML and CSS</strong><br /> A responsive website listing of all the posts that I've been stationed at while working at the Department of State using just HTML and CSS!</p>
+    </td>
+    <td width="50%" valign="top">
+    <h3 align="center">Things I Learned</h3>
+          <br />
+          <a target="_blank" href="https://github.com/chaudhryna/Django201">
+            <img width="100%" alt="things-I-learned" src="/images/things-I-learned.png">
+          </a>
+          <br />
+          <p align="center">
+              <a href="https://github.com/chaudhryna/Django201" target="_blank">
+                  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+              </a>
+          </p>
+        <p><strong>Django, Python, jQuery, Pillow, sorl-thumbnails and Tailwind CSS.</strong><br /> A social media app with user authentication where users can make posts, follow other users and update their own profile.</p>
     </td>
     </tr>
 </table>
