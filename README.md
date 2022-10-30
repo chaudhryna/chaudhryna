@@ -27,7 +27,7 @@
       <h3 align="center">Help Desk</h3>
       <br />
       <a href="https://github.com/chaudhryna/help-desk/" target="_blank">
-        <img width="100%" alt="help-desk" src=" ">
+        <img width="100%" alt="help-desk" src="/images/update-ticket.png">
       </a>
       <br />
       <p align="center">
@@ -42,13 +42,10 @@
       </p>
       <p>A Help Desk ticketing system created with Node, Express, MongoDb, and Mongoose. Using the Bootstrap 5 framework and assets from Undraw.</p>
     </td>
-    </tr>
-    
-    <tr>
     <td width="50%" valign="top">
       <h3 align="center">Rock Paper Scissors</h3>
       <br />
-      <a href="https://github.com/chaudhryna/odin-rock-paper-scissors/" target="_blank">
+      <a href="https://github.com/chaudhryna/odin-rock-paper-scissors" target="_blank">
         <img width="100%" alt="rock-paper-scissors" src="/images/rock-paper-scissors.png">
       </a>
       <br />
@@ -66,7 +63,6 @@
         https://vecteezy.com.</p>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Etch A Sketch</h3>
@@ -80,20 +76,14 @@
           <img
             src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
         </a>
-        <a href="https://chaudhryna.github.io/etch-a-sketch/" target="_blank">
+        <a href="https://chaudhryna.github.io/etch-a-sketch" target="_blank">
           <img
             src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
         </a>
       </p>
       <p>An Odin Project challenge built with HTML, CSS, and Javascript. The challenge is to build a browser version of
-        something between a sketchpad and an Etch-A-Sketch in order to learn DOM manipulation.
-
-        There are a few features I'd like to add in the future but this is an MVP for now.</p>
+        something between a sketchpad and an Etch-A-Sketch in order to learn DOM manipulation. There are a few features I'd like to add in the future but this is an MVP for now.</p>
     </td>
-    </tr>
-    
-    <tr>
-
     <td width="50%" valign="top">
       <h3 align="center">The Perfect Cocktail App</h3>
       <br />
@@ -116,7 +106,6 @@
         random.</p>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">DnD Spell Selector</h3>
@@ -138,9 +127,6 @@
       <p><strong>Javascript, HTML and CSS</strong> <br />A simple website for spell selections using the The 5th Edition
         Dungeons and Dragons API https://www.dnd5eapi.co/.</p>
     </td>
-</tr>
-    
-    <tr>
     <td width="50%" valign="top">
       <h3 align="center">Travel Page</h3>
       <br />
@@ -162,7 +148,6 @@
         while working at the Department of State using just HTML and CSS!</p>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Things I Learned</h3>
@@ -180,28 +165,8 @@
       <p><strong>Django, Python, jQuery, Pillow, sorl-thumbnails and Tailwind CSS.</strong><br /> A social media app
         with user authentication where users can make posts, follow other users and update their own profile.</p>
     </td>
-      
      </tr>
-    
     <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Things I Learned</h3>
-      <br />
-      <a target="_blank" href="https://github.com/chaudhryna/Django201">
-        <img width="100%" alt="things-I-learned" src="/images/things-I-learned.png">
-      </a>
-      <br />
-      <p align="center">
-        <a href="https://github.com/chaudhryna/Django201" target="_blank">
-          <img
-            src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
-        </a>
-      </p>
-      <p><strong>Django, Python, jQuery, Pillow, sorl-thumbnails and Tailwind CSS.</strong><br /> A social media app
-        with user authentication where users can make posts, follow other users and update their own profile.</p>
-    </td>
-    </tr>
-   
 </table>
 
 [![Top
