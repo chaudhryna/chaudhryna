@@ -24,7 +24,7 @@
       <h3 align="center">Help Desk</h3>
         <br />
         <a href="https://github.com/chaudhryna/help-desk/" target="_blank">
-            <img width="100%" alt="all-tickets" src="/images/all-tickets.png">
+            <img width="100%" alt="help-desk" src="/images/update-ticket.png">
         </a>
         <br />
         <p align="center">
@@ -37,6 +37,7 @@
         </p>
         <p>A Help Desk ticketing system created with Node, Express, MongoDb, and Mongoose. Using the Bootstrap 5 framework and assets from Undraw.</p>
     </td>
+     
     <td width="50%" valign="top">
       <h3 align="center">Rock Paper Scissors</h3>
         <br />
@@ -55,6 +56,7 @@
         <p>A simple rock, paper, scissors game built with HTML, CSS, and Javascript for the Odin Project using images from https://vecteezy.com.</p>
     </td>
   </tr>
+    
   <tr>
     <td width="50%" valign="top">
     <h3 align="center">Etch A Sketch</h3>
@@ -75,6 +77,7 @@
 
 There are a few features I'd like to add in the future but this is an MVP for now.</p>
     </td>
+    
  
     <td width="50%" valign="top">
       <h3 align="center">The Perfect Cocktail App</h3>
@@ -94,7 +97,8 @@ There are a few features I'd like to add in the future but this is an MVP for no
         <p><strong>Javascript, HTML and CSS</strong><br /> A simple website for a #100Devs project that uses the https://www.thecocktaildb.com/ API to search for cocktails. You can type in your cocktail or select one at random.</p>
       </td> 
    </tr>
-  <tr>
+    
+    <tr>
       <td width="50%" valign="top">
       <h3 align="center">DnD Spell Selector</h3>
         <br />
@@ -112,7 +116,7 @@ There are a few features I'd like to add in the future but this is an MVP for no
       </p>
       <p><strong>Javascript, HTML and CSS</strong> <br />A simple website for spell selections using the The 5th Edition Dungeons and Dragons API https://www.dnd5eapi.co/.</p>
     </td>
-  
+    
     <td width="50%" valign="top">
       <h3 align="center">Travel Page</h3>
         <br />
@@ -130,8 +134,9 @@ There are a few features I'd like to add in the future but this is an MVP for no
         </p>
         <p><strong>HTML and CSS</strong><br /> A responsive website listing of all the posts that I've been stationed at while working at the Department of State using just HTML and CSS!</p>
     </td>
-    </tr>
-  <tr>
+   </tr>
+    
+    <tr>
     <td width="50%" valign="top">
     <h3 align="center">Things I Learned</h3>
           <br />
